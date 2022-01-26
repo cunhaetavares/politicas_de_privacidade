@@ -2,8 +2,8 @@ Política de Privacidade
 ----------------
 
 ### Introdução  
-Nossa política de privacidade ajudará você a entender quais informações coletamos no AdotPet, como o AdotPet as usa e quais opções você tem.
-AdotPet criou o aplicativo AdotPet como um aplicativo gratuito. Este SERVIÇO é fornecido pelo AdotPet sem custos e destina-se a ser utilizado como está.
+Nossa política de privacidade ajudará você a entender quais informações coletamos no Meu Ponto, como o Meu Ponto as usa e quais opções você tem.
+Cunha & Tavares Consultoria S/S criou o aplicativo Meu Ponto como um aplicativo gratuito. Este SERVIÇO é fornecido pela Cunha & Tavares Consultoria S/S sem custos e destina-se a ser utilizado como está.
 Se você optar por usar nosso Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que coletamos são usadas para fornecer e melhorar o Serviço. Não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 Os termos utilizados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, que podem ser acessados em nosso site, salvo definição em contrário nesta Política de Privacidade.
 
@@ -43,4 +43,4 @@ Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, rec
 ### Entre em contato conosco
 Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar.
 Informações de contato: 
-Email: erick_vasconcelos_contato@outlook.com  
+Email: informatica@cunhaetavares.com.br
