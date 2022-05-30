@@ -11,7 +11,6 @@ Os termos utilizados nesta Política de Privacidade têm os mesmos significados 
 
 ### Coleta e Uso de Informações  
 Para uma melhor experiência ao usar nosso Serviço, podemos exigir que você nos forneça certas informações de identificação pessoal, incluindo, entre outras, nome de usuário, endereço de e-mail, CPF, PIS e localização. As informações que solicitamos serão retidas por nós e usadas conforme descrito nesta política de privacidade.
-O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
 
 ### Cookies  
